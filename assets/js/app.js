@@ -545,7 +545,7 @@ var UID = 0;
 var oldInvestment;
 var plans = ['6.6% Daily ROI', '50.5% Daily ROI', '26% Daily ROI', '12% Daily ROI'];
 var plans_rus = ['6.6% \u0432 \u0434\u0435\u043D\u044C', '50.5% \u0432 \u0434\u0435\u043D\u044C', '26% \u0432 \u0434\u0435\u043D\u044C', '12% \u0432 \u0434\u0435\u043D\u044C'];
-var plans_cn = ['\u6BCF\u59296.6%', '\u6BCF\u592950.5%', '\u6BCF\u592926%', '\u6BCF\u592912%'];
+var plans_cn = ['\u6BCF\u5929\6.6%', '\u6BCF\u5929\50.5%', '\u6BCF\u5929\26%', '\u6BCF\u5929\12%'];
 
 function main() {
     var _0x92e6xb = '';
