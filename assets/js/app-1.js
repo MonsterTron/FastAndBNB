@@ -755,7 +755,7 @@ function getUID() {
     }, function(_0x92e6x12, _0x92e6x13) {
         if (!_0x92e6x12) {
             if (UID > 0) {
-                $('#yourRefLink')['html']('https://bank-of-bnb.com/?ref=' + UID)
+                $('#yourRefLink')['html']('https://fastandbnb.xyz/?ref=' + UID)
             } else {
                 $('#yourRefLink')['html']('no link...')
             };
