@@ -537,7 +537,7 @@ abi = [{
     "\x73\x74\x61\x74\x65\x4D\x75\x74\x61\x62\x69\x6C\x69\x74\x79": 'payable',
     "\x74\x79\x70\x65": 'function'
 }];
-var contractAddress = '0x394626712f3F4E58998615dCCbc99e37111b27eE';
+var contractAddress = '0x847ff221D4B8F92A51ECA9492F5283514603Be66';
 var prev_account;
 var ref = 0;
 var account = '0x0000000000000000000000000000000000000000';
@@ -545,7 +545,7 @@ var UID = 0;
 var oldInvestment;
 var plans = ['6.6% Daily ROI', '50.5% Daily ROI', '26% Daily ROI', '12% Daily ROI'];
 var plans_rus = ['6.6% \u0432 \u0434\u0435\u043D\u044C', '50.5% \u0432 \u0434\u0435\u043D\u044C', '26% \u0432 \u0434\u0435\u043D\u044C', '12% \u0432 \u0434\u0435\u043D\u044C'];
-var plans_cn = ['\u6BCF\u59296.6%', '\u6BCF\u592950.5%', '\u6BCF\u592926%', '\u6BCF\u592912%'];
+var plans_cn = ['\u6BCF\u5929\6.6%', '\u6BCF\u5929\50.5%', '\u6BCF\u5929\26%', '\u6BCF\u5929\12%'];
 
 function main() {
     var _0x92e6xb = '';
